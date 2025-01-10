@@ -4,3 +4,14 @@ technical assessment test
 run : npm install -> node app.js
 node version v20.9.0
 npm version 10.9.1
+
+
+  '0xc8f8e2F59Dd95fF67c3d39109ecA2e2A017D4c8a',
+  '0x5Bd8EdD2CC0688655698094fE8e2882982889cb7',
+  '0x1194749b4889dbb167fC2983310F2dB36C198dCb',
+  '0xD80a3F1C31cCF19ea14c69250D5cDFF7e8D305b5',
+  '0xe00dD9D317573f7B4868D8f2578C65544B153A27',
+  '0x75c7bC106f8cFE800BeCC44242596057dD5894EE',
+  ... 376 more items
+]
+Total balance: 588.3518921189018 ETH
